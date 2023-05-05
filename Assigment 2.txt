@@ -1,0 +1,10 @@
+1. 4.5, 3.0, -0.0
+2. this, super, define, is, dynamic
+3. Keywords
+4. no
+5. Yes
+6. RAM
+7. Dannis Ritchite
+8. 1985
+9. UNIX
+10. Middle level language
