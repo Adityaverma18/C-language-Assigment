@@ -1,0 +1,19 @@
+1. A primitive type has always a value. It starts with a lowercase letters. the size of a primitive type depends on the data type.
+
+2. Declaration Statement
+
+3. 4 bytes
+
+4. 0
+
+5. FLoat has 4 bytes of memory wherea dounle has 8 bytes of memory. double can represent much larger numbers than a float.
+
+6. ASCII:- AMerican Standard Code for Information Interchange.
+
+7. A function is executed within a stack frame, whereas a keyword statement isn't necessarily. A good example is the return statement: If it were a function and would execute in its own stack, there would be no way it could control the execution flow in the way it does.
+
+8. Type Modifier keywords are used as prefixes to the Built-in Data types in the declaration or initialization statements. They are used to modify the memory allocation of the variable. Type Modifiers also modify (increase or decrease) the range of the Data types.
+
+9. yes
+
+10. False
