@@ -1,0 +1,18 @@
+1.Computer only understand binary language because binary language contains a set of combination of 0 and 1 for different value where 0 represents off while 1 represnts on which is used to read by memory unit to understand the command.
+
+2.IDE:-Integrated Development Environment.
+
+3. Text Editor is a software which is used for writting simple text in the keyboard just like notepad, wordpad, etc where as code editor is a program which is used to write a set of intruction to the computer which as a tak for computer.
+
+4.The steps to develop a C lanaguage  software is 
+1.Creating a source code 
+2.Compiling a source code 
+3.Executing a source code
+
+5.a. C17
+  b. Dannis Ritchie 
+  c. A system is a pre installed software on which we perform many application software wheras A application software is a softwar on which task is performed,
+  d.   i. Take decimal number as dividend
+	ii. Divide by 2
+	iii. Store the reminder in array
+	iv. Repeat until zero is obtained.
